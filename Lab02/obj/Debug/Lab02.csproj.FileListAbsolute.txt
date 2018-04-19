@@ -1,0 +1,15 @@
+C:\Users\JoséFabián\Documents\Visual Studio 2017\Projects\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+C:\Users\JoséFabián\Documents\Visual Studio 2017\Projects\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\JoséFabián\Documents\Visual Studio 2017\Projects\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\JoséFabián\Documents\Visual Studio 2017\Projects\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\JoséFabián\Documents\Visual Studio 2017\Projects\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\JoséFabián\Documents\Visual Studio 2017\Projects\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\JoséFabián\Documents\Visual Studio 2017\Projects\Lab02\Lab02\obj\Debug\Lab02.pdb
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\Lab02\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\Lab02\obj\Debug\Lab02.pdb

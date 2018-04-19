@@ -1,0 +1,16 @@
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Lab02.exe
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Lab02.pdb
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Lab02.exe.config
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\josef\Downloads\TopicosLaboratorioDos-master\TopicosLaboratorioDos-master\Lab02\UnitTests\obj\Debug\UnitTests.pdb
